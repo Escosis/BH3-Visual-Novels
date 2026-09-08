@@ -1,4 +1,4 @@
-**Windows 用户可下载该仓库的所有文件并以以下方法打开进行阅读，也可以直接访问 [BH3-Visual-Novels](https://escosis.github.io/BH3-Visual-Novels/) 进行预览。Android 用户请移步 [BH3-Visual-Novels-Package-Android](https://github.com/Escosis/BH3-Visual-Novels-Package-Android)**
+**Windows 用户可下载该仓库的所有文件并以以下方法打开进行阅读，Android 用户请移步 [BH3-Visual-Novels-Package-Android](https://github.com/Escosis/BH3-Visual-Novels-Package-Android)。二者均可以直接访问 [BH3-Visual-Novels](https://escosis.github.io/BH3-Visual-Novels/) 进行预览。**
 
 ### 方法一：在电脑浏览器中打开`htm/html`直接阅读，但需要禁用浏览器的 CORS 策略才可正常使用，否则将由于该策略限制无法访问资源文件。
 
